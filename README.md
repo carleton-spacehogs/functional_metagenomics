@@ -1,2 +1,2 @@
 # functional_metagenomics
-Functional metagenomics at the Mid-Cayman Rise; summer 2017-summer 2018
+Metabolic dynamics of Bacteria and Archaea at the Mid-Cayman Rise. Data and scripts for work done by Rika Anderson and David Galambos 2017-2018.
