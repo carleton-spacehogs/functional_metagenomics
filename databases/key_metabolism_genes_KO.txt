@@ -1,0 +1,90 @@
+K17218	sqr	sulfide:quinone oxidoreductase [EC:1.8.5.-1]	Sulfur oxidation 
+K17222	soxA	sulfur-oxidizing protein SoxA	Sulfur oxidation 
+K17223	socX	sulfur-oxidizing protein SoxX	Sulfur oxidation 
+K17224	soxB	sulfur-oxidizing protein SoxB	Sulfur oxidation 
+K17225	soxC	sulfane dehydrogenase subunit	Sulfur oxidation 
+K17226	soxY	sulfur-oxidizing protien SoxY	Sulfur oxidation 
+K17227	soxZ	sulfur-oxidizing protein SoxZ	Sulfur oxidation 
+K00394	aprA	adenylylsulfate reductase, subunit A [EC:1.8.99.2]	Sulfur oxidation
+K00395	aprB	adenylylsulfate reductase, subunit B [EC:1.8.99.2]	Sulfur oxidation
+K11180	dsrA	sulfite reductase alpha subunit [EC:1.8.99.3 1.8.99.1]	Sulfur reduction (oxidation?)
+K11181	dsrB	sulfite reductase beta subunit [EC:1.8.99.3 1.8.99.1]	Sulfur reduction (oxidation?)
+K17229	fccB	sulfide dehydrogenase [flavocytochrome c] flavoprotein chain [EC:1.8.2.3]	Sulfur oxidation
+K00399	mcrA	methyl-coenzyme M reductase alpha subunit [EC:2.8.4.1]	Methanogenesis
+K00401	mcrB	methyl-coenzyme M reductase beta subunit [EC:2.8.4.1]	Methanogenesis
+K03421	mcrC	methyl-coenzyme M reductase subunit C	Methanogenesis
+K03422	mcrD	methyl-coenzyme M reductase subunit D	Methanogenesis
+K00402	mcrG	methyl-coenzyme M reductase gamma subunit [EC:2.8.4.1]	Methanogenesis
+K02567	napA	periplasmic nitrate reductase NapA [EC:1.7.99.4]	Nitrate reduction (denitrification)
+K00370	narG	nitrate reductase alpha subunit [EC:1.7.99.4]	Nitrate reduction (denitrification)
+K02588	nifH	nitrogenase iron protein NifH [EC:1.18.6.1]	Nitrogen fixation
+K00368	nirK	nitrite reductase (NO-forming) [EC:1.7.2.1]	Denitrification
+K15864	nirS	nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1]	Denitrification
+K04561	norB	nitric oxide reductase subunit B [EC:1.7.2.5]	Denitrification
+K00376	nosZ	nitrous-oxide reductase [EC:1.7.2.4]	Denitrification
+K03385	nrfA	nitrite reductase (cytochrome c-552) [EC:1.7.2.2]	DNRA
+K10944	pmoA-amoA	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	Ammonia oxidation/methane oxidation
+K00958	sat, met3	sulfate adenylyltransferase [EC:2.7.7.4]	Sulfur reduction (oxidation?)
+K17218	sqr	sulfide:quinone oxidoreductase [EC:1.8.5.-]	Sulfur oxidation
+K02274	coxA	cytochrome c oxidase subunit I [EC:1.9.3.1]	O2 respiration
+K02275	coxB	cytochrome c oxidase subunit II [EC:1.9.3.1]	O2 respiration
+K02276	coxC	cytochrome c oxidase subunit III [EC:1.9.3.1]	O2 respiration
+K00404	ccoN	cytochrome c oxidase cbb3-type subunit I [EC:1.9.3.1]	O2 respiration
+K00405	ccoO	cytochrome c oxidase cbb3-type subunit II	O2 respiration
+K00406	ccoP	cytochrome c oxidase cbb3-type subunit III	O2 respiration
+K00407	ccoQ	cytochrome c oxidase cbb3-type subunit IV	O2 respiration
+K15408	coxAC	cytochrome c oxidase subunit I+III [EC:1.9.3.1]	O2 respiration
+K15862	ccoNO	cytochrome c oxidase cbb3-type subunit I/II [EC:1.9.3.1]	O2 respiration
+K02277	coxD, ctaF	cytochrome c oxidase subunit IV [EC:1.9.3.1]	O2 respiration
+K14086	echA	ech hydrogenase subunit A	hydrogen
+K14087	echB	ech hydrogenase subunit B	hydrogen
+K14088	echC	ech hydrogenase subunit C	hydrogen
+K14090	echE	ech hydrogenase subunit E	hydrogen
+K14093	ehaB	energy-converting hydrogenase A subunit B	hydrogen
+K14094	ehaC	energy-converting hydrogenase A subunit C	hydrogen
+K14096	ehaE	energy-converting hydrogenase A subunit E	hydrogen
+K14098	ehaG	energy-converting hydrogenase A subunit G	hydrogen
+K14105	ehaN	energy-converting hydrogenase A subunit N	hydrogen
+K14106	ehaO	energy-converting hydrogenase A subunit O	hydrogen
+K14107	ehaP	energy-converting hydrogenase A subunit P	hydrogen
+K14110	ehbA	energy-converting hydrogenase B subunit A	hydrogen
+K14111	ehbB	energy-converting hydrogenase B subunit B	hydrogen
+K14115	ehbF	energy-converting hydrogenase B subunit F	hydrogen
+K14118	ehbI	energy-converting hydrogenase B subunit I	hydrogen
+K14119	ehbJ	energy-converting hydrogenase B subunit J	hydrogen
+K14120	ehbK	energy-converting hydrogenase B subunit K	hydrogen
+K14121	ehbL	energy-converting hydrogenase B subunit L	hydrogen
+K14123	ehbN	energy-converting hydrogenase B subunit N	hydrogen
+K14124	ehbO	energy-converting hydrogenase B subunit O	hydrogen
+K00440	frhA	coenzyme F420 hydrogenase subunit alpha [EC:1.12.98.1]	hydrogen
+K00441	frhB	coenzyme F420 hydrogenase subunit beta [EC:1.12.98.1]	hydrogen
+K00442	frhD	coenzyme F420 hydrogenase subunit delta	hydrogen
+K00443	frhG	coenzyme F420 hydrogenase subunit gamma [EC:1.12.98.1]	hydrogen
+K06282	hyaA, hybO	hydrogenase small subunit [EC:1.12.99.6]	hydrogen
+K06281	hyaB, hybC	hydrogenase large subunit [EC:1.12.99.6]	hydrogen
+K03620	hyaC	Ni/Fe-hydrogenase 1 B-type cytochrome subunit	hydrogen
+K18008	hydA2	[NiFe] hydrogenase small subunit [EC:1.12.2.1]	hydrogen
+K05927	hydA3	quinone-reactive Ni/Fe-hydrogenase small subunit [EC:1.12.5.1]	hydrogen
+K00437	hydB2	[NiFe] hydrogenase large subunit [EC:1.12.2.1]	hydrogen
+K05922	hydB3	quinone-reactive Ni/Fe-hydrogenase large subunit [EC:1.12.5.1]	hydrogen
+K14028	mxaF	methanol dehydrogenase (cytochrome c) subunit 1 [EC:1.1.2.7]	methanol
+K07321	cooC	CO dehydrogenase maturation factor	carbon monoxide
+K00196	cooF	carbon-monoxide dehydrogenase iron sulfur subunit	carbon monoxide
+K00198	cooS, acsA	carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.99.2 1.2.7.4]	carbon monoxide
+K05299	fdhA1	formate dehydrogenase alpha subunit [EC:1.2.1.43]	carbon monoxide
+K06212	focA	formate transporter	carbon monoxide
+K18023	mbhJ	membrane-bound hydrogenase subunit mbhJ [EC:1.12.7.2]	carbon monoxide
+K18017	mbhK	membrane-bound hydrogenase subunit beta [EC:1.12.7.2]	carbon monoxide
+K18016	mbhL	membrane-bound hydrogenase subunit alpha [EC:1.12.7.2]	carbon monoxide
+K15230	aclA	ATP-citrate lyase alpha-subunit	carbon fixation
+K15231	aclB	ATP-citrate lyase beta-subunit	carbon fixation
+K00244	frdA	fumarate reductase flavoprotein subunit	carbon fixation
+K00245	frdB	fumarate reductase iron-sulfur subunit	carbon fixation
+K00239	sdhA, frdA	succinate dehydrogenase / fumarate reductase, flavoprotein subunit	carbon fixation
+K00240	sdhB, frdB	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit	carbon fixation
+K00174	korA, oorA, oorA	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	carbon fixation
+K00175	korB, oorB, oorB	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	carbon fixation
+K00176	korD, oorD	2-oxoglutarate ferredoxin oxidoreductase subunit delta	carbon fixation
+K00177	korC, oorC	2-oxoglutarate ferredoxin oxidoreductase subunit gamma	carbon fixation
+K00855	prkB	phosphoribulokinase	carbon fixation
+K14534	abfD	4-hydroxybytyryl-CoA dehydratase	carbon fixation

@@ -1,0 +1,11 @@
+FeoA	pfam04023
+FeoB_C	pfam07664
+FeoB_N	pfam02421
+FTR1	pfam03239
+Nramp	pfam01566
+ZIP	pfam02535
+Plug	pfam07715
+TonB_dep_Rec	pfam00593
+Condensation	pfam00668
+AlcB	pfam10331
+IucA_IucC	pfam04183

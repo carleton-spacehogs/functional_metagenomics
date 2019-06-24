@@ -1,0 +1,31 @@
+Created by PLY version 3.11 (http://www.dabeaz.com/ply)
+
+Unused terminals:
+
+    COMMA
+    KOnum
+    LPAREN
+    MINUS
+    RPAREN
+
+Grammar
+
+Rule 0     S' -> expression
+Rule 1     expression -> expression PLUS expression
+Rule 2     expression -> expression SPACE expression
+
+Terminals, with rules where they appear
+
+COMMA                : 
+KOnum                : 
+LPAREN               : 
+MINUS                : 
+PLUS                 : 1
+RPAREN               : 
+SPACE                : 2
+error                : 
+
+Nonterminals, with rules where they appear
+
+expression           : 1 1 2 2 0
+
