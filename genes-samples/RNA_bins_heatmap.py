@@ -21,10 +21,6 @@ parser.add_argument('--size_clustered', default = (13,13), type = float, nargs =
 args = parser.parse_args()
 
 
-# which columns to read -- don't read first 2
-# cols = []
-# for x in arange(1, (args.cols+2)):
-#     cols.append(x)
 
 # read the excel file
 with pd.ExcelFile(args.XL) as xls:

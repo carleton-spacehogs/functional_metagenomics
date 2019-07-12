@@ -111,5 +111,3 @@ if args.o == None:
 	plt.savefig('MG_bubble_plot_modded.pdf')
 else:
 	plt.savefig('{0}.pdf'.format(args.o))
-
-#i am sure i could have spent more time fiddling with the colors, axis titles, etc but that's what illustrator is for
