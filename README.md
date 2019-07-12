@@ -13,10 +13,15 @@ All scripts are written in Python 3.6.2.
 
 ## Dependencies
 matplotlib
+
 numpy
+
 pandas
+
 ply
+
 requests
+
 seaborn
 
 ## Questions or suggestions?
